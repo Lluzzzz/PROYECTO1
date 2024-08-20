@@ -1,0 +1,34 @@
+
+
+* {
+    background-color: rgb(255, 250, 243);
+    margin: 30px;
+}
+
+h1{
+    background-color: rgb(5, 44, 103);
+    color: white;
+    border-bottom: 10px black;
+    font-size: xx-large;
+    text-align: center;
+    padding: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: auto;
+}
+
+h2{
+    color: rgb(40, 53, 71);
+    text-align: center;
+}
+table{
+    border: 10px;
+    background-color: black;
+    text-align: center;
+    align-items: center;
+    color: rgb(46, 119, 183);
+    
+}
+
+img{
+    align-self: center;
+}
